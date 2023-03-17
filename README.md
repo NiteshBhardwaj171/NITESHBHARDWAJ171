@@ -1,4 +1,11 @@
 ### Hi there 👋
+-I'm a UG at CSE Department.
+-Pursueing Baeclor In Technology.
+-I'm currently developing my coding skills 🌱
+-I code in C,PYTHON AND HTML.
+-I made a project on message encryption and decryption.
+-I'm happy if you help me in developing projects and program.
+📫 How to reach me: niteshbhardwaj8650@gmail.com
 
 <!--
 **NiteshBhardwaj171/NITESHBHARDWAJ171** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +17,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: niteshbhardwaj8650@gmail.com
+- 📫 How to reach me:...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
