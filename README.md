@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Nitesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][(https://www.linkedin.com/in/prithvic-chauhan/)](https://www.linkedin.com/in/nitesh-bhardwaj-127ab926a/)
+[<img align="left" alt="Nitesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][(https://www.linkedin.com/in/nitesh-bhardwaj-127ab926a/)]
 [<img align="left" alt="Nitesh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/instagram.svg" />](https://instagram.com/nitesh.bhardwaj_17?igshid=ZDdkNTZiNTM=)
 
 <br />
