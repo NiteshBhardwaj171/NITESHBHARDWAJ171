@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 -I'm a UG at CSE Department.
--Pursueing Baeclor In Technology.
+-Pursueing Bachelor In Technology.
 -I'm currently developing my coding skills 🌱
 -I code in C,PYTHON AND HTML.
 -I made a project on message encryption and decryption.
