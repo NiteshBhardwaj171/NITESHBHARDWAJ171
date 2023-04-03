@@ -1,11 +1,17 @@
 ### Hi there 👋
 
 -I'm a UG at CSE Department.
+
 -Pursueing Bachelor In Technology.
+
 -I'm currently developing my coding skills 🌱
+
 -I code in C,PYTHON AND HTML.
+
 -I made a project on message encryption and decryption.
+
 -I'm happy if you help me in developing projects and program.
+
 📫 How to reach me: niteshbhardwaj8650@gmail.com
 
 
