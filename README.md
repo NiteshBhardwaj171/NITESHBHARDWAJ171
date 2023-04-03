@@ -1,4 +1,4 @@
-### Hi there, How're you? 👋
+# Hi there, How're you? 👋
 
 • I'm a UG at CSE Department.<br>• Pursueing Bachelor In Technology.<br>• I'm currently developing my coding skills 🌱.<br>• I code in C,PYTHON AND HTML.<br>• I made a project on message encryption and decryption.<br>• I'm happy if you help me in developing projects and program.
 
