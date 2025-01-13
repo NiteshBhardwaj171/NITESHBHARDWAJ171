@@ -1,6 +1,6 @@
 # Hi there, How're you? 👋
 
-• I'm a UG student at CSE Department with a passion of Science and web development.<br>• Pursueing Bachelor In Technology.<br>• I'm currently learning coding skills 🌱.<br>• I code in C,PYTHON AND HTML.<br>• I made a project on message encryption and decryption.<br>• I'm happy if you help me in developing projects and program.
+• I'm a UG student at CSE Department with a passion of Science and web development.<br>• Pursueing Bachelor Of Technology.<br>• I'm currently learning coding skills 🌱.<br>• I code in C,PYTHON AND HTML.<br>• I made a project on message encryption and decryption.<br>• I'm happy if you help me in developing projects and program.
 
 📫 How to reach me: niteshbhardwaj8650@gmail.com
 
