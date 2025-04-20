@@ -1,11 +1,13 @@
-# Hi there, How're you? 👋
+# Heyy there, Wassup? 👋
 
-• I'm a UG student at CSE Department with a passion of Science and web development.<br>• Pursueing Bachelor Of Technology.<br>• I'm currently learning coding skills 🌱.<br>• I code in C,PYTHON AND HTML.<br>• I made a project on message encryption and decryption.<br>• I'm happy if you help me in developing projects and program.
+•  
+Motivated Computer Science B.Tech graduate seeking a developer position in a dynamic IT organization. Eager to apply expertise in web services, application development, and problem-solving to contribute to innovative solutions and drive technological advancements.
+.<br>• With a Strong command in Core and Advanced Java, Springboot 🌱.<br>• Other Skills: C, Python And HTML.<br>• I created few  projects : 1)Billing System  2)Online Healthcare System.<br>• I'm happy if you help me in developing projects and program.
 
 📫 How to reach me: niteshbhardwaj8650@gmail.com
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Figma width="100"](https://cdn.dribbble.com/users/6788898/screenshots/15692856/media/02f05dcb4499c5647b23b3ef3be766d4.png). ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Figma](https://cdn.dribbble.com/users/6788898/screenshots/15692856/media/02f05dcb4499c5647b23b3ef3be766d4.png). ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=niteshbhardwaj171&theme=monokai&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=niteshbhardwaj171&theme=monokai&hide_border=true)<br/>
