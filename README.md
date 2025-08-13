@@ -2,7 +2,7 @@
 
 •  
 Motivated Computer Science B.Tech graduate seeking a developer position in a dynamic IT organization. Eager to apply expertise in web services, application development, and problem-solving to contribute to innovative solutions and drive technological advancements.
-.<br>• With a Strong command in Core and Advanced Java, Springboot 🌱.<br>• Other Skills: C, Python And HTML.<br>• I created few  projects : 1)Billing System  2)Online Healthcare System.<br>• I'm happy if you help me in developing projects and program.
+.<br>• With a Strong command in Core and Advanced Java, Springboot 🌱.<br>• Other Skills: C, Python And HTML.<br>• I created few  projects : 1)Smart Electrical Billing and Consumption monitoring System  2)Online Healthcare System.3) Message Encryptiondecryptiontool. 4) Spotify Clone 5) Login and Signup using Google OAuth<br>• I'm happy if you help me in developing projects and program.
 
 📫 How to reach me: niteshbhardwaj8650@gmail.com
 
