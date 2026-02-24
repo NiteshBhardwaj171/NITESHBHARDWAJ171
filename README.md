@@ -1,9 +1,9 @@
 # Heyy there, Wassup? 👋
 
-•  Motivated Computer Science B.Tech graduate seeking a developer position in a dynamic IT organization. Eager to apply expertise in web services, application development, and problem-solving to contribute to innovative solutions and drive technological advancements.
+•  Motivated Computer Science B.Tech graduate . Expertise in Artificial Intelligence and Machine Learning, Deep learning, Generative AI, LLMs, RAG, Agentic AI, AI Agent, Open CV . Eager to apply expertise in development, and problem-solving to contribute to innovative solutions and drive technological advancements.
 .<br>• With a Strong command in Core and Advanced Java, Springboot and Spring Cloud for building scalable, high-performance applicaFons.<br>  • Relational Databases, SQL, and ORM technologies such as Hibernate.
-Skilled in integrating and managing embedded and external databases.<br>  • Other Skills: DVCS like Git, Github, Rest API, Jenkins, CI/CD Piplines, C, Python And HTML.<br>• I created few  projects : 1)Smart Electrical Billing and Consumption monitoring System  2)Online Healthcare System.<br>
-3) Message Encryptiondecryptiontool. 4) Spotify Clone 5) Login and Signup using Google OAuth<br>• I'm happy if you help me in developing projects and program.
+Skilled in integrating and managing embedded and external databases.<br>  • Other Skills: DVCS like Git, Github, Rest API, DJango, Jenkins, CI/CD Piplines, C, Python And HTML.<br>• I Projects and Assignments : 1) Conversational NLP Chatbot (Rule Based) 2) House Prediction Model 3) Mental Health Prediction Model 4)Titanic Survived Prediction Model 5)Smart Electrical Billing and Consumption monitoring System  6)Online Healthcare System.<br>
+7) Message Encryptiondecryptiontool. 8) Spotify Clone 9) Login and Signup using Google OAuth<br>• I'm happy if you help me in developing projects and program.
 
 📫 How to reach me: niteshbhardwaj8650@gmail.com
 
